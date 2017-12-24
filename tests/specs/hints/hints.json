@@ -1,0 +1,10 @@
+[
+    {
+        "name": "pkgA",
+        "provides": {
+            "pkgA-subpkg": [
+                "2.5"
+            ]
+        }
+    }
+]
